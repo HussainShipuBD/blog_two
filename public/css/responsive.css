@@ -1,0 +1,337 @@
+@media all and (max-width: 759px) {
+._mobile_button{
+    display: block;
+}
+._banner_info {
+    width: 100%;
+}
+._banner_info_h2 {
+    font-size: 16px;
+    line-height: 25px;
+}
+._evnmnt_sec_left {
+    margin-bottom: 38px;
+    text-align: center;
+}
+._evnmnt_sec_left i {
+    margin: 0 auto;
+}
+._all_copyright {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+._copy_right_sec_text {
+    margin-bottom: 10px;
+}
+._card1 {
+    height: auto;
+}
+._ftr_pdng_lft{
+	padding-left: 0px;
+}
+.slider-overlay {
+    height: 360px;
+    padding: 129px 0;
+}
+._programmes_sec .col-lg-4 {
+    padding-bottom: 0;
+}
+._evnmnt_sec ._card1_pic {
+    margin: 0 auto;
+}
+._sponser_img {
+    height: 69px;
+}
+._1card {
+    margin-bottom: 30px;
+}
+._event_program_menu li {
+    font-size: 15px;
+    padding: 8px 17px 6px;
+}
+._event_program_date {
+    padding: 0 0px 0 17px;
+    flex: 0 0 73px;
+}
+._event_program_text {
+    padding: 0 18px 0;
+}
+._cvent_form_main {
+    padding: 19px 20px;
+}
+._dash_content {
+    padding: 74px 15px 35px 15px;
+    margin-left:0px;
+}
+._dashAdmin_menu_all {
+    width: 100%;
+}
+._list_menu li a {
+    font-size: 13px;
+}
+._list_menu li {
+    margin-right: 10px;
+    padding-right: 17px;
+}
+._list_menu li:before {
+    font-size: 12px;
+}
+._dashSpeaker_menu_list li a {
+    font-size: 13px;
+    padding: 8px 10px 7px;
+    margin-right: 0px;
+}
+._dashSpeaker_details_alls {
+    padding: 21px 15px;
+}
+._2banner_bottom {
+    position: inherit;
+    background: #000000;
+    padding: 20px 0;
+}
+._2banner_title {
+    font-size: 16px;
+    margin: 0 0 3px;
+}
+._2banner_bottom_dates li {
+    font-size: 12px;
+    padding: 2px 0;
+}
+._dashSpeaker_details_alls ._2banner_main {
+    position: inherit;
+    top: 0;
+    background: #000;
+    padding: 15px 0 13px;
+    margin-bottom: -1px;
+}
+._2banner_edit {
+    top: 10px;
+    right: 10px;
+}
+._dashSpeaker_card ._dash_top {
+    padding: 14px 15px 32px;
+}
+._event_about {
+    padding-top: 28px;
+}
+._dashSpeaker_table_main {
+    padding: 0 15px;
+}
+._2banner_main {
+    position: inherit;
+    top: inherit;
+    transform: inherit;
+    padding: 20px 0 6px;
+        background: black;
+    margin-bottom: -1px;
+}
+._2banner_bottom_button a:last-child {
+    margin-left: 0;
+    margin-top: 20px;
+}
+._2banner_bottom_button {
+    text-align: center;
+    padding: 27px 0 0;
+}
+._menu_sec {
+    display: none;
+}
+._logo img {
+    height: 30px;
+    width: auto;
+}
+._header_sec{
+    border-bottom: 1px solid #ddd;
+}
+._mobile_menu {
+    display: block;
+}
+._1deah_menu_main {
+    display: none;
+}
+._mobile_sidemenu._mobile_sidemenu_open{
+    left: 0px !important;
+}
+._mobile_sidemenu_open ._menu_close{
+    display: block;
+}
+._mobile_sidemenu_open ._sidemenu_overlay{
+    display: block;
+}
+._mobile_sidemenu._mobile_sidemenu {
+    width: 238px !important;
+    left: -100%;
+    transition: .3s all ease;
+}
+._mobile_sidemenu ._1sidemenu_main {
+    z-index: 11;
+    position: relative;
+}
+._mobile_sidemenu ._1deah_menu_name {
+    overflow: hidden;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #fff;
+}
+._mobile_sidemenu ._1deah_menu_main {
+    padding: 10px 20px;
+    display: block;
+}
+._1deah_menu {
+    border-bottom: 1px solid #ddd;
+}
+._sidemenu_overlay{
+        position: fixed;
+    content: '';
+    height: 100vh;
+    width: 100%;
+    z-index: 0;
+    background: #000000a6;
+    left: 0px;
+    top: 0;
+    right: 0px;
+    display: none;
+}
+._1deah_menu_img {
+    width: auto;
+    height: 30px;
+}
+._sidemenu_button{
+    display: block;
+}
+}
+
+@media all and (max-width: 320px) {
+
+}
+
+@media all and (min-width:760px) and (max-width: 1050px) {
+._mobile_button{
+    display: block;
+}
+._sidemenu_button{
+    display: block;
+}
+._mobile_sidemenu._mobile_sidemenu_open{
+    left: 0px !important;
+}
+._mobile_sidemenu_open ._menu_close{
+    display: block;
+}
+._mobile_sidemenu_open ._sidemenu_overlay{
+    display: block;
+}
+._mobile_sidemenu._mobile_sidemenu {
+    width: 238px !important;
+    left: -100%;
+}
+._mobile_sidemenu ._1sidemenu_main {
+    z-index: 11;
+    position: relative;
+}
+._mobile_sidemenu ._1deah_menu_name {
+    overflow: hidden;
+    white-space: nowrap;
+    overflow: hidden;
+    text-overflow: ellipsis;
+    color: #fff;
+}
+._mobile_sidemenu ._1deah_menu_main {
+    padding: 10px 20px;
+    display: block;
+}
+._1deah_menu {
+    border-bottom: 1px solid #ddd;
+}
+._sidemenu_overlay{
+        position: fixed;
+    content: '';
+    height: 100vh;
+    width: 100%;
+    z-index: 0;
+    background: #000000a6;
+    left: 0px;
+    top: 0;
+    right: 0px;
+    display: none;
+}
+._mobile_menu {
+    display: block;
+}
+._header_sec{
+    border-bottom: 1px solid #ddd;
+}
+._menu_sec {
+    display: none;
+}
+._1deah_menu_main {
+    display: none;
+}
+._banner_info_h2 {
+    font-size: 30px;
+	}
+._slider_card1_btm_h4 {
+    font-size: 15px;
+    line-height: 18px;
+	}
+._slider_card1_btm_h4 {
+    font-size: 15px; 
+}
+._evnmnt_sec_left {
+    margin-bottom: 38px;
+    text-align: center;
+}
+._evnmnt_sec ._card1_pic {
+    margin: 0 auto;
+}
+._sponser_img {
+    height: 90px;
+}
+._footer_sec_info_text {
+    width: 100%;
+}
+._slider_card1_top {
+    height: 124px;
+}
+._slider_card1_btm_h4 {
+    height: 37px;
+}
+._slider_card1_ul li {
+    padding-bottom: 0px;
+}
+._2banner_bottom {
+    position: inherit;
+    background: #000000;
+    padding: 16px 0 23px;
+}
+._2banner_bottom_dates {
+    margin-bottom: 20px;
+}
+._2banner_main {
+    position: absolute;
+    top: auto;
+    transform: translateY(0%);
+    left: 0px;
+    right: 0px;
+    bottom: 214px;
+}
+._1card_pic {
+    height: 117px;
+}
+._dash_content {
+    padding: 74px 15px 35px 15px;
+    margin-left:0px;
+}
+._card_bottom_list li {
+    font-size: 14px;
+    margin-right: 13px;
+}
+._slider_card1_btm {
+    padding: 20px 13px 25px;
+}
+._dashSpeaker_details_alls ._2banner_main {
+    bottom: 129px;
+}
+}
